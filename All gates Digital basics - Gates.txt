@@ -1,0 +1,3 @@
+            All gates: Digital basics -> Gates
+	    Lamp: displays -> digital -> Logic Display.
+	    battery: switches -> Digital -> Logic Switch.
